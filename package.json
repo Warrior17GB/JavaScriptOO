@@ -1,0 +1,12 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto realizado no curso \"JavaScript: introdução a Orientação a Objetos\" da Alura Cursos Online",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Gabriel Barboza Dos Santos",
+  "license": "ISC",
+  "type": "module"
+}
